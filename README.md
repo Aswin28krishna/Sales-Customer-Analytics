@@ -1,4 +1,5 @@
 Sales & Customer Analytics with Machine Learning
+
 🔍 Project Overview
 
 This project performs end-to-end sales and customer analytics on a dataset containing 10,000+ transactions.
